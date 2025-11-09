@@ -7,15 +7,15 @@
 # emoji==2.14.1
 
 
-streamlit==1.45.0
-pandas==2.3.2
-scikit-learn==1.6.1
-nltk==3.9.1
-joblib==1.4.2
-requests==2.32.3
-emoji==2.14.1
-fuzzywuzzy==0.18.0
-python-levenshtein==0.25.1  # For faster fuzzy matching
-python-dotenv==1.0.1  # For env vars
+streamlit
+pandas
+scikit-learn
+nltk
+joblib
+requests
+emoji
+fuzzywuzzy
+python-levenshtein
+python-dotenv
 sqlite3  # Built-in, but ensure
-pytest==8.3.3  # For tests
+pytest

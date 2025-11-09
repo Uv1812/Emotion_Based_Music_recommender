@@ -17,5 +17,4 @@ emoji
 fuzzywuzzy
 python-levenshtein
 python-dotenv
-sqlite3  # Built-in, but ensure
 pytest
